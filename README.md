@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi there, I'm lKakui! 👋
+
+I'm a Software Engineer focused on **Python Backend Development** and **High-Performance Computing**. 
+
+In my current role, I work with GPU processing optimization, which gives me a deep understanding of code efficiency, memory management, and performance. I am also expanding my stack capacity learning more about hardware control using low-level code with c++.
+
 
 <!--
 **lKakui/lKakui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
