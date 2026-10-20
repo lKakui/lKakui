@@ -1,21 +1,9 @@
-### Hi there, I'm lKakui! 👋
+### Hi there, I'm Luiz (lKakui) 👋
 
-I'm a Software Engineer focused on **Python Backend Development** and **High-Performance Computing**. 
+Software developer focused on **Python backend development** and **high-performance computing**.
 
-In my current role, I work with GPU processing optimization, which gives me a deep understanding of code efficiency, memory management, and performance. I am also expanding my stack capacity by learning more about hardware control using low-level code with c++.
+I work on GPU performance optimization for real-time computer vision systems, which has given me a strong foundation in code efficiency, memory management, and performance tuning. I'm currently broadening my technical stack with low-level C++ for hardware control.
 
+**Tech stack:** Python · C · C++ · CUDA · NVIDIA DeepStream · GStreamer · OpenCV · Docker · Linux
 
-<!--
-**lKakui/lKakui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Open to:** international opportunities in backend engineering, high-performance computing, and computer vision.
